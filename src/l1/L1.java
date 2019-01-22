@@ -31,7 +31,7 @@ public class L1
             if(list[i]==0)
             {
                 list[i]=value;
-                
+
                 break;//one data item at a location
             }
         }
